@@ -1,0 +1,208 @@
+Src dir: /home/daveti/python/csveUt/new
+Dst dir: /home/daveti/python/csveUt/old
+Quiet Mode: False
+Debug Mode: True
+Backup dir: /home/daveti/python/csveUt/old/20120518072120_bk
+Warning: file does not exist - /home/daveti/python/csveUt/old/atmRsrc.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/callLoad.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/codecRsrc.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/gateways.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/gui.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/h248msg.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/h248pkg.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/ipRsrc.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/localRsrc.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/msiCodecRsrc.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/msiRsrc.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/sctpProfile.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/signalsEventsNotify.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/statistics.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/streamIpRsrc.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/system.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/tdmRsrc.csv
+Warning: file does not exist - /home/daveti/python/csveUt/old/termId.csv
+Debugging: /home/daveti/python/csveUt/old/trans.csv is moved
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/atmRsrc.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/atmRsrc.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/atmRsrc.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/atmRsrc.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/atmRsrc.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/callLoad.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/callLoad.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/callLoad.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/callLoad.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/callLoad.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/codecRsrc.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/codecRsrc.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/codecRsrc.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/codecRsrc.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/codecRsrc.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/gateways.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/gateways.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/gateways.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/gateways.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/gateways.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/gui.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/gui.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/gui.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/gui.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/gui.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/h248msg.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/h248msg.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/h248msg.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/h248msg.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/h248msg.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/h248pkg.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/h248pkg.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/h248pkg.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/h248pkg.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/h248pkg.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/ipRsrc.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/ipRsrc.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/ipRsrc.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/ipRsrc.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/ipRsrc.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/localRsrc.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/localRsrc.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/localRsrc.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/localRsrc.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/localRsrc.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/msiCodecRsrc.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/msiCodecRsrc.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/msiCodecRsrc.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/msiCodecRsrc.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/msiCodecRsrc.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/msiRsrc.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/msiRsrc.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/msiRsrc.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/msiRsrc.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/msiRsrc.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/sctpProfile.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/sctpProfile.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/sctpProfile.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/sctpProfile.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/sctpProfile.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/signalsEventsNotify.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/signalsEventsNotify.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/signalsEventsNotify.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/signalsEventsNotify.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/signalsEventsNotify.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/statistics.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/statistics.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/statistics.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/statistics.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/statistics.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/streamIpRsrc.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/streamIpRsrc.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/streamIpRsrc.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/streamIpRsrc.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/streamIpRsrc.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/system.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/system.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/system.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/system.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/system.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/tdmRsrc.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/tdmRsrc.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/tdmRsrc.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/tdmRsrc.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/tdmRsrc.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/termId.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/termId.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/termId.csv
+Warning: neither dstFile nor srcFile exists!
+Warning: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/termId.csv
+Warning: srcFile: /home/daveti/python/csveUt/new/termId.csv
+Debugging: dstFile: /home/daveti/python/csveUt/old/20120518072120_bk/trans.csv
+Debugging: srcFile: /home/daveti/python/csveUt/new/trans.csv
+Debugging: newFile: /home/daveti/python/csveUt/old/trans.csv
+Debugging: line: # Basic infra of csv file - src/new
+Debugging: line: # This is comment line - new
+Debugging: line: A,B,C
+Debugging: line: d11,d12,d13
+Debugging: line: d21,d22,d23
+Debugging: line: d31,d32,d33
+Debugging: line: d41,d42,d43
+Debugging: Function: reverseMatrixList
+Debugging: l = ['A,B,C', 'd11,d12,d13', 'd21,d22,d23', 'd31,d32,d33', 'd41,d42,d43']
+Debugging: totalEleList: ['A', 'B', 'C', 'd11', 'd12', 'd13', 'd21', 'd22', 'd23', 'd31', 'd32', 'd33', 'd41', 'd42', 'd43']
+Debugging: rowEleNum: 3
+Debugging: totalEleListLen: 15
+Debugging: colEleList: ['A', 'd11', 'd21', 'd31', 'd41']
+Debugging: colEleStr: A,d11,d21,d31,d41
+Debugging: colEleList: ['B', 'd12', 'd22', 'd32', 'd42']
+Debugging: colEleStr: B,d12,d22,d32,d42
+Debugging: colEleList: ['C', 'd13', 'd23', 'd33', 'd43']
+Debugging: colEleStr: C,d13,d23,d33,d43
+Debugging: srcCommentList: ['# Basic infra of csv file - src/new', '# This is comment line - new']
+Debugging: srcDataList: ['A,B,C', 'd11,d12,d13', 'd21,d22,d23', 'd31,d32,d33', 'd41,d42,d43']
+Debugging: srcDataListReversed: ['A,d11,d21,d31,d41', 'B,d12,d22,d32,d42', 'C,d13,d23,d33,d43']
+Debugging: line: # Basic infra of csv file - dst/old
+Debugging: line: # This is comment line - old
+Debugging: line: A,C
+Debugging: line: e11,e12
+Debugging: line: #e21,e22
+Debugging: line: e31,e32
+Debugging: Function: reverseMatrixList
+Debugging: l = ['A,C', 'e11,e12', '#e21,e22', 'e31,e32']
+Debugging: totalEleList: ['A', 'C', 'e11', 'e12', '#e21', 'e22', 'e31', 'e32']
+Debugging: rowEleNum: 2
+Debugging: totalEleListLen: 8
+Debugging: colEleList: ['A', 'e11', '#e21', 'e31']
+Debugging: colEleStr: A,e11,#e21,e31
+Debugging: colEleList: ['C', 'e12', 'e22', 'e32']
+Debugging: colEleStr: C,e12,e22,e32
+Debugging: dstDataList: ['A,C', 'e11,e12', '#e21,e22', 'e31,e32']
+Debugging: dstDataListReversed: ['A,e11,#e21,e31', 'C,e12,e22,e32']
+Debugging: Function: evolveMatrixListReversed
+Debugging: new = ['A,d11,d21,d31,d41', 'B,d12,d22,d32,d42', 'C,d13,d23,d33,d43']
+Debugging: old = ['A,e11,#e21,e31', 'C,e12,e22,e32']
+Debugging: rowNumOfNew: 3
+Debugging: rowNumOfOld: 2
+Debugging: colNumOfNew: 5
+Debugging: colNumOfOld: 4
+Debugging: adjustNum: 1
+Debugging: index for new, i: 0
+Debugging: index for old, idxOfOld: 0
+Debugging: using old data: A,e11,#e21,e31
+Debugging: index for new, i: 1
+Debugging: index for old, idxOfOld: 1
+Debugging: using new data - truncating: B,d12,d22,d32
+Debugging: index for new, i: 2
+Debugging: index for old, idxOfOld: 1
+Debugging: using old data: C,e12,e22,e32
+Debugging: Function: reverseMatrixList
+Debugging: l = ['A,e11,#e21,e31', 'B,d12,d22,d32', 'C,e12,e22,e32']
+Debugging: totalEleList: ['A', 'e11', '#e21', 'e31', 'B', 'd12', 'd22', 'd32', 'C', 'e12', 'e22', 'e32']
+Debugging: rowEleNum: 4
+Debugging: totalEleListLen: 12
+Debugging: colEleList: ['A', 'B', 'C']
+Debugging: colEleStr: A,B,C
+Debugging: colEleList: ['e11', 'd12', 'e12']
+Debugging: colEleStr: e11,d12,e12
+Debugging: colEleList: ['#e21', 'd22', 'e22']
+Debugging: colEleStr: #e21,d22,e22
+Debugging: colEleList: ['e31', 'd32', 'e32']
+Debugging: colEleStr: e31,d32,e32
+Debugging: newDataListReversed: ['A,e11,#e21,e31', 'B,d12,d22,d32', 'C,e12,e22,e32']
+Debugging: newDataList: ['A,B,C', 'e11,d12,e12', '#e21,d22,e22', 'e31,d32,e32']
+Debugging: newFileList: ['# Basic infra of csv file - src/new\n', '# This is comment line - new\n', 'A,B,C\n', 'e11,d12,e12\n', '#e21,d22,e22\n', 'e31,d32,e32\n']
+evolved: /home/daveti/python/csveUt/old/trans.csv
+Thank you for using csve - done:)
