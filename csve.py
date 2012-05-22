@@ -266,12 +266,12 @@ for f in csvFileList:
 			isDataLine = False
 			while True:
 				line = srcFileObj.readline()
+				# Deleting the suffix '\n'
+				line = line.rstrip()
+
 				if len(line) == 0:
 					break
 				else:
-					# Deleting the suffix '\n'
-					line = line.rstrip()
-
 					# Debugging info
 					printDebuggingInfoIfEnabled( 'line:', line)
 
@@ -300,12 +300,12 @@ for f in csvFileList:
 			isDataLine = False
 			while True:
 				line = dstFileObj.readline()
+				# Deleting the suffix '\n'
+				line = line.rstrip()
+
 				if len(line) == 0:
 					break
 				else:
-					# Deleting the suffix '\n'
-					line = line.rstrip()
-
                                         # Debugging info
                                         printDebuggingInfoIfEnabled( 'line:', line)
 
